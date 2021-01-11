@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z11CDfPniv7IDlU/Ml3wsHWRa59MVOkHMzuEeyA0Z+EBSOKkUFMFO9xTOZByb4A7zlHydzJpcfpHLPAORx5apw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evell\\OneDrive\\Documentos\\WORK\\dio\\aplicando-design-partterns-na-pratica-com-c#\\Workbench.IFormatter.Extensions\\Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\evell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

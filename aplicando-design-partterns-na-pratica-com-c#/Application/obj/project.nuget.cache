@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V5IGX9ZetMas0F4IijCxKm5r73VzSpvTt/HnZAfGzDcw9Y37t+yf9UChlkkSrp6ih+CNKkvwTPwW2oDFeuLkhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evell\\OneDrive\\Documentos\\WORK\\dio\\aplicando-design-partterns-na-pratica-com-c#\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evell\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\evell\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\evell\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

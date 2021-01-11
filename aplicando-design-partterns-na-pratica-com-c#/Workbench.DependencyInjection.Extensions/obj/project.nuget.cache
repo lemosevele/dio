@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRANOPMJ9lVcf8wH/U9Czmpo7DmgASxEw3c8OXEGte+B20oAT3gkXhhpyQWtnQPgBheUW6Ci+HNaRbP70jP5iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evell\\OneDrive\\Documentos\\WORK\\dio\\aplicando-design-partterns-na-pratica-com-c#\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
